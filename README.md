@@ -1,6 +1,6 @@
 README.md
 - application title
-- author: 
+- author: narathip khingthong
   * id: 66114540355
   * name: vy
 - technology: [pygame/streamlit]
