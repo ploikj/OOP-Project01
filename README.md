@@ -8,4 +8,4 @@ README.md
 
 * presentation: [slide/canva/etc..] link [public/ubu]
 * video: link [public/ubu]
- xoxoxo
+ [xoxoxo](https://drive.google.com/file/d/1y46KIILcQTlK2fOQ8nqnl6MvP9rvPwsn/view?usp=sharing)https://drive.google.com/file/d/1y46KIILcQTlK2fOQ8nqnl6MvP9rvPwsn/view?usp=sharing
